@@ -40,7 +40,7 @@ public class MainActivity extends ActionBarActivity {
     private static final int CREATE_REQUEST_CODE = 40;
     private static final int OPEN_REQUEST_CODE = 41;
     private static final int SAVE_REQUEST_CODE = 42;
-    private static final String URL="http://192.168.0.103/test.php";
+    private static final String URL="yourserveraddress/test.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
